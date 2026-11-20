@@ -1,0 +1,9 @@
+{
+  "exposure_samples": 5,
+  "exposure_rule": "midpoint",
+  "shutter_reference_mode": "center_nearest",
+  "temporal_window": 0.07000100000000001,
+  "temporal_sigma": 0.03875,
+  "znear": 0.14065930843353272,
+  "zfar": 100.0
+}

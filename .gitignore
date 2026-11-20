@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.spyproject/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+outputs/
+external/
+benchmark_data/
+benchmark_results/
+*.log

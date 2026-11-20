@@ -1,0 +1,18 @@
+{
+  "initial_total": 24000,
+  "final_total": 48000,
+  "initial_per_frame": {
+    "0": 6000,
+    "2": 6000,
+    "4": 6000,
+    "6": 6000
+  },
+  "final_per_frame": {
+    "0": 12000,
+    "2": 12000,
+    "4": 12000,
+    "6": 12000
+  },
+  "split_events": 6,
+  "evidence_transfer": "Children inherit source targets; no new independent evidence."
+}

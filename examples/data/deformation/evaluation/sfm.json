@@ -1,0 +1,690 @@
+{
+  "root_path": "images",
+  "pixel_coordinates": "opencv_integer_centers",
+  "intrinsics": [
+    {
+      "key": 0,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "focal_length": 400.0,
+            "principal_point": [
+              223.5,
+              143.5
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "views": [
+    {
+      "key": 0,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 1,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 2,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 3,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 4,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 5,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 6,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000001_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 7,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000001_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 8,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000001_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 9,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000001_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 10,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000001_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 11,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000001_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 12,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 14,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 16,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 17,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 18,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000003_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 19,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000003_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 20,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000003_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 21,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000003_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 22,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000003_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 23,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000003_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 25,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 26,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 27,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 28,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 29,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 30,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000005_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 31,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000005_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 32,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000005_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 33,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000005_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 34,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000005_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 35,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000005_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 36,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 37,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 38,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam2.png",
+            "id_pose": 2,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 39,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 40,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 41,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam5.png",
+            "id_pose": 5,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    }
+  ],
+  "extrinsics": [
+    {
+      "key": 0,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 1,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.05999999865889549,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 2,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.11999999731779099,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 3,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.18000000715255737,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 4,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.23999999463558197,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 5,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.05999999865889549,
+          0.05000000074505806,
+          0.0
+        ]
+      }
+    }
+  ]
+}

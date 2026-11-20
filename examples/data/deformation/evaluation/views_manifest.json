@@ -1,0 +1,254 @@
+{
+  "frame_000000_cam0.png": {
+    "frame_idx": 0,
+    "camera_id": 0,
+    "timestamp": 0.0,
+    "exposure": 0.0
+  },
+  "frame_000000_cam1.png": {
+    "frame_idx": 0,
+    "camera_id": 1,
+    "timestamp": 0.0,
+    "exposure": 0.0
+  },
+  "frame_000000_cam2.png": {
+    "frame_idx": 0,
+    "camera_id": 2,
+    "timestamp": 0.0,
+    "exposure": 0.0
+  },
+  "frame_000000_cam3.png": {
+    "frame_idx": 0,
+    "camera_id": 3,
+    "timestamp": 0.0,
+    "exposure": 0.0
+  },
+  "frame_000000_cam4.png": {
+    "frame_idx": 0,
+    "camera_id": 4,
+    "timestamp": 0.0,
+    "exposure": 0.0
+  },
+  "frame_000000_cam5.png": {
+    "frame_idx": 0,
+    "camera_id": 5,
+    "timestamp": 0.0,
+    "exposure": 0.0
+  },
+  "frame_000001_cam0.png": {
+    "frame_idx": 1,
+    "camera_id": 0,
+    "timestamp": 0.05,
+    "exposure": 0.0
+  },
+  "frame_000001_cam1.png": {
+    "frame_idx": 1,
+    "camera_id": 1,
+    "timestamp": 0.05,
+    "exposure": 0.0
+  },
+  "frame_000001_cam2.png": {
+    "frame_idx": 1,
+    "camera_id": 2,
+    "timestamp": 0.05,
+    "exposure": 0.0
+  },
+  "frame_000001_cam3.png": {
+    "frame_idx": 1,
+    "camera_id": 3,
+    "timestamp": 0.05,
+    "exposure": 0.0
+  },
+  "frame_000001_cam4.png": {
+    "frame_idx": 1,
+    "camera_id": 4,
+    "timestamp": 0.05,
+    "exposure": 0.0
+  },
+  "frame_000001_cam5.png": {
+    "frame_idx": 1,
+    "camera_id": 5,
+    "timestamp": 0.05,
+    "exposure": 0.0
+  },
+  "frame_000002_cam0.png": {
+    "frame_idx": 2,
+    "camera_id": 0,
+    "timestamp": 0.1,
+    "exposure": 0.04
+  },
+  "frame_000002_cam1.png": {
+    "frame_idx": 2,
+    "camera_id": 1,
+    "timestamp": 0.1,
+    "exposure": 0.04
+  },
+  "frame_000002_cam2.png": {
+    "frame_idx": 2,
+    "camera_id": 2,
+    "timestamp": 0.1,
+    "exposure": 0.04
+  },
+  "frame_000002_cam3.png": {
+    "frame_idx": 2,
+    "camera_id": 3,
+    "timestamp": 0.1,
+    "exposure": 0.04
+  },
+  "frame_000002_cam4.png": {
+    "frame_idx": 2,
+    "camera_id": 4,
+    "timestamp": 0.1,
+    "exposure": 0.04
+  },
+  "frame_000002_cam5.png": {
+    "frame_idx": 2,
+    "camera_id": 5,
+    "timestamp": 0.1,
+    "exposure": 0.04
+  },
+  "frame_000003_cam0.png": {
+    "frame_idx": 3,
+    "camera_id": 0,
+    "timestamp": 0.15,
+    "exposure": 0.02
+  },
+  "frame_000003_cam1.png": {
+    "frame_idx": 3,
+    "camera_id": 1,
+    "timestamp": 0.15,
+    "exposure": 0.02
+  },
+  "frame_000003_cam2.png": {
+    "frame_idx": 3,
+    "camera_id": 2,
+    "timestamp": 0.15,
+    "exposure": 0.02
+  },
+  "frame_000003_cam3.png": {
+    "frame_idx": 3,
+    "camera_id": 3,
+    "timestamp": 0.15,
+    "exposure": 0.02
+  },
+  "frame_000003_cam4.png": {
+    "frame_idx": 3,
+    "camera_id": 4,
+    "timestamp": 0.15,
+    "exposure": 0.02
+  },
+  "frame_000003_cam5.png": {
+    "frame_idx": 3,
+    "camera_id": 5,
+    "timestamp": 0.15,
+    "exposure": 0.02
+  },
+  "frame_000004_cam0.png": {
+    "frame_idx": 4,
+    "camera_id": 0,
+    "timestamp": 0.2,
+    "exposure": 0.0
+  },
+  "frame_000004_cam1.png": {
+    "frame_idx": 4,
+    "camera_id": 1,
+    "timestamp": 0.2,
+    "exposure": 0.0
+  },
+  "frame_000004_cam2.png": {
+    "frame_idx": 4,
+    "camera_id": 2,
+    "timestamp": 0.2,
+    "exposure": 0.0
+  },
+  "frame_000004_cam3.png": {
+    "frame_idx": 4,
+    "camera_id": 3,
+    "timestamp": 0.2,
+    "exposure": 0.0
+  },
+  "frame_000004_cam4.png": {
+    "frame_idx": 4,
+    "camera_id": 4,
+    "timestamp": 0.2,
+    "exposure": 0.0
+  },
+  "frame_000004_cam5.png": {
+    "frame_idx": 4,
+    "camera_id": 5,
+    "timestamp": 0.2,
+    "exposure": 0.0
+  },
+  "frame_000005_cam0.png": {
+    "frame_idx": 5,
+    "camera_id": 0,
+    "timestamp": 0.25,
+    "exposure": 0.04
+  },
+  "frame_000005_cam1.png": {
+    "frame_idx": 5,
+    "camera_id": 1,
+    "timestamp": 0.25,
+    "exposure": 0.04
+  },
+  "frame_000005_cam2.png": {
+    "frame_idx": 5,
+    "camera_id": 2,
+    "timestamp": 0.25,
+    "exposure": 0.04
+  },
+  "frame_000005_cam3.png": {
+    "frame_idx": 5,
+    "camera_id": 3,
+    "timestamp": 0.25,
+    "exposure": 0.04
+  },
+  "frame_000005_cam4.png": {
+    "frame_idx": 5,
+    "camera_id": 4,
+    "timestamp": 0.25,
+    "exposure": 0.04
+  },
+  "frame_000005_cam5.png": {
+    "frame_idx": 5,
+    "camera_id": 5,
+    "timestamp": 0.25,
+    "exposure": 0.04
+  },
+  "frame_000006_cam0.png": {
+    "frame_idx": 6,
+    "camera_id": 0,
+    "timestamp": 0.3,
+    "exposure": 0.04
+  },
+  "frame_000006_cam1.png": {
+    "frame_idx": 6,
+    "camera_id": 1,
+    "timestamp": 0.3,
+    "exposure": 0.04
+  },
+  "frame_000006_cam2.png": {
+    "frame_idx": 6,
+    "camera_id": 2,
+    "timestamp": 0.3,
+    "exposure": 0.04
+  },
+  "frame_000006_cam3.png": {
+    "frame_idx": 6,
+    "camera_id": 3,
+    "timestamp": 0.3,
+    "exposure": 0.04
+  },
+  "frame_000006_cam4.png": {
+    "frame_idx": 6,
+    "camera_id": 4,
+    "timestamp": 0.3,
+    "exposure": 0.04
+  },
+  "frame_000006_cam5.png": {
+    "frame_idx": 6,
+    "camera_id": 5,
+    "timestamp": 0.3,
+    "exposure": 0.04
+  }
+}

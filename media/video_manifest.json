@@ -1,0 +1,108 @@
+{
+  "renderer": "CUDA alpha-composited 3D Gaussian splatting",
+  "source_sha256": {
+    "examples/results/controlled_demo/translation/sensitivity/fixed_on/dynamic_gaussians_final.npz": "2f14d23d57aaba095b08d56d74f0cddd5af01514e66c30db7f71648d3abbd58a",
+    "examples/results/controlled_demo/deformation/sensitivity/fixed_on/dynamic_gaussians_final.npz": "80588336b57221907b14afaf940e6054045aed39c68b36c52e22c62ec0163850"
+  },
+  "width": 1440,
+  "height": 960,
+  "fps": 24,
+  "frames": 252,
+  "physical_timestamps_s": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3
+  ],
+  "hold_video_frames": 6,
+  "repeats": 6,
+  "orbit_degrees": 70.0,
+  "opacity_filter": null,
+  "scale_multiplier": 1.0,
+  "color_ranges": {
+    "confidence": [
+      2.279045581817627,
+      3.045029878616333
+    ],
+    "uncertainty": [
+      0.00019955489551648498,
+      0.020394708961248398
+    ]
+  },
+  "counts": [
+    {
+      "experiment": "deformation",
+      "frame": 0,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "deformation",
+      "frame": 1,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "deformation",
+      "frame": 2,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "deformation",
+      "frame": 3,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "deformation",
+      "frame": 4,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "deformation",
+      "frame": 5,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "deformation",
+      "frame": 6,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 0,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 1,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 2,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 3,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 4,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 5,
+      "gaussians": 12000
+    },
+    {
+      "experiment": "translation",
+      "frame": 6,
+      "gaussians": 12000
+    }
+  ],
+  "uncertainty": "mu*(1-mu)/(kappa+1), Beta opacity variance"
+}

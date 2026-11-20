@@ -1,0 +1,324 @@
+{
+  "root_path": "images",
+  "pixel_coordinates": "opencv_integer_centers",
+  "intrinsics": [
+    {
+      "key": 0,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "focal_length": 400.0,
+            "principal_point": [
+              223.5,
+              143.5
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "views": [
+    {
+      "key": 0,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 1,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 3,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 4,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000000_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 12,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 13,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 15,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 16,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000002_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 24,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 25,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 27,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 28,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000004_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 36,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam0.png",
+            "id_pose": 0,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 37,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam1.png",
+            "id_pose": 1,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 39,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam3.png",
+            "id_pose": 3,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    },
+    {
+      "key": 40,
+      "value": {
+        "ptr_wrapper": {
+          "data": {
+            "filename": "frame_000006_cam4.png",
+            "id_pose": 4,
+            "id_intrinsic": 0
+          }
+        }
+      }
+    }
+  ],
+  "extrinsics": [
+    {
+      "key": 0,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 1,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.05999999865889549,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 3,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.18000000715255737,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "key": 4,
+      "value": {
+        "rotation": [
+          [
+            1.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            1.0
+          ]
+        ],
+        "center": [
+          0.23999999463558197,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

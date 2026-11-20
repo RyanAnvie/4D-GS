@@ -1,0 +1,213 @@
+{
+  "source_modules_sha256": {
+    "calibration_eval.py": "c69ae7815cbbd02b32c6a1aaef01da500d9e0d4cf836b0a586cee536417d04be",
+    "center_stereo_evidence.py": "8acb891a718b4bb2a0a24cc6ead46fed5977b32beff9c33a88b34264826b6401",
+    "controlled_dynamics_eval.py": "89cc8b7e18e9880f81c37f9883e82a70bb0092d87c21c348be812821265d5b9f",
+    "data_io.py": "29a688355e2d9012afdcae335e13bdd8e75092fbec45ef0d7fda6c2af1e084fb",
+    "densification.py": "bbae8cc863fe910bff2e1935de304e8c7279fceea53eec07b2364f89a38a71f1",
+    "density_eval.py": "109086afea3f05b3af73ed9aaa58300944df671433c5feaaf57cc3072464d7d2",
+    "diagnose_spatial_rendering.py": "288e8fa72d82f02b21fc1f4eb772dd6e40fd8d782f340af947b7b9139dfb5ed4",
+    "full_plane_estimator.py": "7272cdf1ec2e618a48230728f93ae34353a4af20db4d649f800d2c76bc632284",
+    "local_disparity_evidence.py": "86f81a7d9b40197240d947156f8b7c47d8e4e88b8d49210f9bdb4751e22e5ef4",
+    "local_surface_support.py": "f291e99dd252702a1259a53043a664e58c141810de907ba13663667475a1f5bf",
+    "losses.py": "c1eab539acb6005e8bd5353f8b72b14f34e60bff44743bee28cb0216eb5ceb5a",
+    "model.py": "36f1b13b2cd8cbf8ba1c155b252bc1f4de7f2862f946caccd0c38741e884dfd6",
+    "multibaseline_geometry.py": "763b2aa374958112bad94ca7a881180762b1bf2f130610b33fb35fae108bf47d",
+    "multiview_stereo.py": "b86c6fb12ae3efa8c180f89dcbb0817d047cfb7b24fbb62fda288ffa29219b03",
+    "mvs_tracks.py": "c3529ca2a5b6a587e20b3e9a888ab5e9aed82eeeeca263057aa4b9284be6d4fb",
+    "photometric_disparity.py": "697ccc6a0de9ab039d9d998da03a281d0a320561c86370f4e53a327da7ed91ee",
+    "piecewise_photometric.py": "37287e33dba7374256b04919e443fa8b6aae4bcb57ad8c5d199bf36bb38da89e",
+    "ply_utils.py": "0d5cd3c7915fc0eb2b85ced021eeabd9992f1b1a72d5877dc0981d2657d2a713",
+    "prepare_controlled_dynamics.py": "4ccf1b3af35ea0286728c31c1347745be803f29e375d527ef28098eda41fbabf",
+    "prepare_eth3d_geometry.py": "b0fc5a40c7ebaeb2c690448476728503144644ff1dff38f3abf468703fa34bf8",
+    "renderer.py": "2a14954883002365ff56839f9c9fce9d7b77295a11e98d67978b65fee614778c",
+    "surface_support.py": "7d41d1d07fd5cab8dc61ff80a907e5212d5ec66fb1a4ab07a6a2a92e1ddc3ab3",
+    "test_controlled_viewer.py": "d85a899f0bd9334c5d406a5cac081f0e6c5e404089584c3539cd94de24b76a3e",
+    "test_densification.py": "a1f39594755fc2cd652d991e568493d7be07fcddd1d3c7844298fbd626ad705c",
+    "test_dynamic_protocol.py": "ade31dbf695bce5b210d8a149f45c6c94571683f80863388046330ced60a8839",
+    "test_full_plane_estimator.py": "75c93477aa45363e9f9565755eed2d090d6555c506d7a40505a8a94291134e26",
+    "test_geometry_calibration.py": "c9b6f8b66b53bc3e56288aba09a7cf11918598ced3ebca4692cd89c5548927b3",
+    "test_local_surface_support.py": "dda645710ce31d9416009dcfa1d81be2a71bc73a70bc90e28f5156efa759828c",
+    "test_measurement_conventions.py": "ae27c44133bc21e6e991677ec61aed3bd6c1ee66704cc6985cae8bb2c22f0607",
+    "test_multibaseline_geometry.py": "9e2b01d8639740594f92af4281146ad7ddf97115bba56087f768e3a3b31a26b0",
+    "test_spatial_rendering.py": "e149e275ced8747902fdf986dc3f72bc6d18c31b2ccd5d2a84a56b130b5274d3",
+    "test_surface_correspondence.py": "f3f22df4bec872b28508ab520b3687ea5f20d11ef9e6d875e7c13d3acbd9262f",
+    "test_surface_support.py": "358b3e1d6addfc3c17cba269794fa050382cbde34a4dc2af1fc2bf372b60019d",
+    "test_view_pointclouds.py": "865223b96f5ddb7fa99073b7964d4be40110c42b05700b768d03fc354187f7c6",
+    "train_4dgs.py": "51fc741663dedd79bcaf7a33bb09c68f684bec7ba786c5b66543dde5575080ab",
+    "view_controlled_results.py": "76566b25471db0ee5bbfec8826c53144d0c53408dd8f9c6f25aa2895be6d605e",
+    "view_pointclouds.py": "9d721be2ff30bfe516676d18c43a3271999a0032ef5ffbb8ecb5bce7a3db2087",
+    "gs_uncertainty/__init__.py": "3ae37a2988213ab82402677c02d43c9bec8c221e8e5730b621175aa727d9cb62",
+    "gs_uncertainty/beta.py": "7c522b38b3e4b950cb7369e6a339fa828b7143fa3626269ce3c7b13685973fb4",
+    "gs_uncertainty/calibration.py": "1031e8523c1220ec81b74abbef66516a7f81af551341489c7a6aae36e917ea5c",
+    "gs_uncertainty/evidence.py": "efbabbccd849d441b1578997c83bffa3ef48bde3e74d99274297b2212dcd788f",
+    "gs_uncertainty/geometry.py": "616ca068f47a7af9a2c6aaf545bb00bf9be017f6a870064db1bbbd8ebea903f4",
+    "gs_uncertainty/losses.py": "0df2d5cb6ddd772a961eca19d6f50d1ffe419bb1e2add49936ccb8ba73d54230",
+    "gs_uncertainty/rendering.py": "50d1433aee386f6c3dae3406983eeda977cabdaf31326eead1a6ba456d4b3758",
+    "gs_uncertainty/stereo_scale.py": "d5781fc5a2915fdb7322ed4a9dbe6bde110eab19f772d2a3c0b2a9fbb024fc72"
+  },
+  "result_assets": [
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/density_summary.json",
+      "sha256": "496d46cbe0fa039e675e05a139e1f7b4c744a824452847d7f9cb53b7f9d1fc23",
+      "original_sha256": "496d46cbe0fa039e675e05a139e1f7b4c744a824452847d7f9cb53b7f9d1fc23",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/density_summary.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/dynamic_gaussians_final.npz",
+      "sha256": "2f14d23d57aaba095b08d56d74f0cddd5af01514e66c30db7f71648d3abbd58a",
+      "original_sha256": "2f14d23d57aaba095b08d56d74f0cddd5af01514e66c30db7f71648d3abbd58a",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/dynamic_gaussians_final.npz"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000000.ply",
+      "sha256": "e1b20bdff1eca4fc925a23a59ae39fec36ad093d3c5edb7bc25e6db55e4a4761",
+      "original_sha256": "e1b20bdff1eca4fc925a23a59ae39fec36ad093d3c5edb7bc25e6db55e4a4761",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000000.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000001.ply",
+      "sha256": "9327dc8d03cd2dd8ad5eb012ef0652f1cfec217679e1d9551876facb1b1c80d9",
+      "original_sha256": "9327dc8d03cd2dd8ad5eb012ef0652f1cfec217679e1d9551876facb1b1c80d9",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000001.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000002.ply",
+      "sha256": "034a9c6963005cde8677808a3f8b5a1168a93c8aad6953fa621b6d0445b7bbee",
+      "original_sha256": "034a9c6963005cde8677808a3f8b5a1168a93c8aad6953fa621b6d0445b7bbee",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000002.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000003.ply",
+      "sha256": "b1e1ccef10dafc50209e0575087d0279146dd412e027f51995c5bca8398f903b",
+      "original_sha256": "b1e1ccef10dafc50209e0575087d0279146dd412e027f51995c5bca8398f903b",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000003.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000004.ply",
+      "sha256": "24eaf5059e357c9c9a17d1a898adbdee1969d05b0099ec817814a317560e57e0",
+      "original_sha256": "24eaf5059e357c9c9a17d1a898adbdee1969d05b0099ec817814a317560e57e0",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000004.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000005.ply",
+      "sha256": "8271e814dba5c2e47a07b3eb09d8940a783b30473f7f0cb7b3d299d356ec4256",
+      "original_sha256": "8271e814dba5c2e47a07b3eb09d8940a783b30473f7f0cb7b3d299d356ec4256",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000005.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000006.ply",
+      "sha256": "f8110a765524aca15be80fbcbaa1ce1f7d99318b8163175fbad2f3355b6f04b2",
+      "original_sha256": "f8110a765524aca15be80fbcbaa1ce1f7d99318b8163175fbad2f3355b6f04b2",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000006.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/sequence_manifest.json",
+      "sha256": "111b2c1b76f1640a4913912a14c5941659dff6dfe1da39d2bf6055ea0a854e40",
+      "original_sha256": "111b2c1b76f1640a4913912a14c5941659dff6dfe1da39d2bf6055ea0a854e40",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/sequence_manifest.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/independent_evaluation/summary.json",
+      "sha256": "992a795bb8af8be75041724167e9c5ce0c998faeb491e02eb612b9dd5716ac7d",
+      "original_sha256": "992a795bb8af8be75041724167e9c5ce0c998faeb491e02eb612b9dd5716ac7d",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/independent_evaluation/summary.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/render_settings.json",
+      "sha256": "63dbbf9cc19a33d64871a1ddf65e5b27966bf7f3d4aa4e294f57b923e9214ddf",
+      "original_sha256": "63dbbf9cc19a33d64871a1ddf65e5b27966bf7f3d4aa4e294f57b923e9214ddf",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/render_settings.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/translation/sensitivity/fixed_on/train_config.json",
+      "sha256": "836ce830461f391ecab205ef0f9fd0e3254eeb477468c76e275968cbb0223fff",
+      "original_sha256": "8df2bba73d4b2a639f218e746064d46c7f064a2105b748eb74b4cb9456eae8fc",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/translation/sensitivity/fixed_on/train_config.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/density_summary.json",
+      "sha256": "496d46cbe0fa039e675e05a139e1f7b4c744a824452847d7f9cb53b7f9d1fc23",
+      "original_sha256": "496d46cbe0fa039e675e05a139e1f7b4c744a824452847d7f9cb53b7f9d1fc23",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/density_summary.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/dynamic_gaussians_final.npz",
+      "sha256": "80588336b57221907b14afaf940e6054045aed39c68b36c52e22c62ec0163850",
+      "original_sha256": "80588336b57221907b14afaf940e6054045aed39c68b36c52e22c62ec0163850",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/dynamic_gaussians_final.npz"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000000.ply",
+      "sha256": "28ead3228c5b5fe76c376fa0f75f1332c5665b6621b64ee34af21c5e4989fedb",
+      "original_sha256": "28ead3228c5b5fe76c376fa0f75f1332c5665b6621b64ee34af21c5e4989fedb",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000000.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000001.ply",
+      "sha256": "b6d7e333593b1ee33be54152c86340ee944f8035b671ae4b662845ec3e704b03",
+      "original_sha256": "b6d7e333593b1ee33be54152c86340ee944f8035b671ae4b662845ec3e704b03",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000001.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000002.ply",
+      "sha256": "ede9085d03a89eabd3f1ad38fbf2d636e35426cc5d412e27fc60dbb5dc50a70d",
+      "original_sha256": "ede9085d03a89eabd3f1ad38fbf2d636e35426cc5d412e27fc60dbb5dc50a70d",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000002.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000003.ply",
+      "sha256": "0a9e81dddfdae9fd0212559738356886a86dcf18d865527b95357d76ad8a3e52",
+      "original_sha256": "0a9e81dddfdae9fd0212559738356886a86dcf18d865527b95357d76ad8a3e52",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000003.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000004.ply",
+      "sha256": "96dc577d18804c26e9ecdd32bae318d3b46414504e501719823edeb3a5b8e48b",
+      "original_sha256": "96dc577d18804c26e9ecdd32bae318d3b46414504e501719823edeb3a5b8e48b",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000004.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000005.ply",
+      "sha256": "a885e6fbc2115447e9b34fa4473b5086d6307f443e1084d43b7698a649ac7896",
+      "original_sha256": "a885e6fbc2115447e9b34fa4473b5086d6307f443e1084d43b7698a649ac7896",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000005.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000006.ply",
+      "sha256": "11354c6f5608b4882aad459249fa176330e55dd8e9937965da4aac2e87739bfb",
+      "original_sha256": "11354c6f5608b4882aad459249fa176330e55dd8e9937965da4aac2e87739bfb",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_frame_000006.ply"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/sequence_manifest.json",
+      "sha256": "111b2c1b76f1640a4913912a14c5941659dff6dfe1da39d2bf6055ea0a854e40",
+      "original_sha256": "111b2c1b76f1640a4913912a14c5941659dff6dfe1da39d2bf6055ea0a854e40",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/sequence_manifest.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/independent_evaluation/summary.json",
+      "sha256": "c536f3a86d1c97240582fb6e38bff8a2b12bfbd2ca6ca8dd82075996079f8c34",
+      "original_sha256": "c536f3a86d1c97240582fb6e38bff8a2b12bfbd2ca6ca8dd82075996079f8c34",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/independent_evaluation/summary.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/render_settings.json",
+      "sha256": "361ba23d6c89bb75c624b70759ac31e0aad5a59364996a3c17dfdf7fd010beaa",
+      "original_sha256": "361ba23d6c89bb75c624b70759ac31e0aad5a59364996a3c17dfdf7fd010beaa",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/render_settings.json"
+    },
+    {
+      "file": "examples/results/controlled_demo/deformation/sensitivity/fixed_on/train_config.json",
+      "sha256": "71a75ae6238af704cf85487c20fe0082b4ca8146427c7582badee6e0b66bda28",
+      "original_sha256": "e97c6b9caa4163ebf046900062a5c9f0c41c6064f53a165f479269ebb5d5fdd5",
+      "source": "benchmark_results/controlled_held_measurement_dev_v1/deformation/sensitivity/fixed_on/train_config.json"
+    }
+  ],
+  "adaptations": [
+    "Repository-relative metadata paths",
+    "Portable Spyder entry points"
+  ],
+  "dataset": "Designed controlled dynamic surfaces, seed1201",
+  "units": "meters"
+}

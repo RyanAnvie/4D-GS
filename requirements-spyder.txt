@@ -1,0 +1,2 @@
+spyder==6.0.8
+spyder-kernels==3.0.5

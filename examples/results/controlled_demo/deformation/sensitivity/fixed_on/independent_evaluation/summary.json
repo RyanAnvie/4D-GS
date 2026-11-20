@@ -1,0 +1,1514 @@
+{
+  "units": "meters",
+  "geometry_reference": "Independent triangle mesh, not initialization cloud",
+  "image_domain": "All image pixels, black outside designed surface; no foreground masking",
+  "frame_metrics": [
+    {
+      "frame": 0,
+      "timestamp_s": 0.0,
+      "held_out_time": false,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.003501453436911106,
+      "mesh_distance_p95_m": 0.012181686237454414,
+      "visible_reference_completeness_mean_m": 0.006676810785540004,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.4238821442832119,
+        "bins": [
+          {
+            "confidence": 2.6416022777557373,
+            "mae": 0.012352618388831615,
+            "count": 1200
+          },
+          {
+            "confidence": 2.7486820220947266,
+            "mae": 0.006563666742295027,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8044989109039307,
+            "mae": 0.003948364872485399,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8392016887664795,
+            "mae": 0.0018585307989269495,
+            "count": 1200
+          },
+          {
+            "confidence": 2.863003730773926,
+            "mae": 0.0016720640705898404,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8897545337677,
+            "mae": 0.0016838236479088664,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9222612380981445,
+            "mae": 0.0017454500775784254,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9302444458007812,
+            "mae": 0.002109995111823082,
+            "count": 1200
+          },
+          {
+            "confidence": 2.938413381576538,
+            "mae": 0.001583083881996572,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9631738662719727,
+            "mae": 0.0014969371259212494,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.0014969371259212494,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.00014586072938982397
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.0015400105621665716,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.00029242271557450294
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.3001666666666667,
+            "mae": 0.0017306762747466564,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.00044503534445539117
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.0017338665202260017,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0006115802098065615
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.0017238580621778965,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0007959960494190454
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.0017152256332337856,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0009942726464942098
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.0017356978496536613,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0012205862440168858
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.0020122809801250696,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0014980012783780694
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.0025179910007864237,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0019586265552788973
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.003501453436911106,
+            "random_expected_mae": 0.003501453436911106,
+            "oracle_mae": 0.0035014536697417498
+          }
+        ]
+      }
+    },
+    {
+      "frame": 1,
+      "timestamp_s": 0.05,
+      "held_out_time": true,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.0038092206232249737,
+      "mesh_distance_p95_m": 0.01296837069094181,
+      "visible_reference_completeness_mean_m": 0.007107748675294162,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.3254784070215543,
+        "bins": [
+          {
+            "confidence": 2.6416022777557373,
+            "mae": 0.010329540818929672,
+            "count": 1200
+          },
+          {
+            "confidence": 2.7486820220947266,
+            "mae": 0.005651567131280899,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8044989109039307,
+            "mae": 0.003897537477314472,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8392016887664795,
+            "mae": 0.003154224483296275,
+            "count": 1200
+          },
+          {
+            "confidence": 2.863003730773926,
+            "mae": 0.002850709715858102,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8897545337677,
+            "mae": 0.0026103949639946222,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9222612380981445,
+            "mae": 0.0025558171328157187,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9302444458007812,
+            "mae": 0.0025916919112205505,
+            "count": 1200
+          },
+          {
+            "confidence": 2.938413381576538,
+            "mae": 0.0023232840467244387,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9631738662719727,
+            "mae": 0.0021274357568472624,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.002127435989677906,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.00021316813945304602
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.002225360134616494,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.00042360415682196617
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.3001666666666667,
+            "mae": 0.0023467536084353924,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0006401287391781807
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.0023995572701096535,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0008692012052051723
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.0024417247623205185,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0011132522486150265
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.0025098887272179127,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0013777684653177857
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.0026019371580332518,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0016679773107171059
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.00276388693600893,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.002005523070693016
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.0030847403686493635,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0024609635584056377
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.0038092206232249737,
+            "random_expected_mae": 0.0038092206232249737,
+            "oracle_mae": 0.0038092206232249737
+          }
+        ]
+      }
+    },
+    {
+      "frame": 2,
+      "timestamp_s": 0.1,
+      "held_out_time": false,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.0031485487706959248,
+      "mesh_distance_p95_m": 0.012380966916680336,
+      "visible_reference_completeness_mean_m": 0.006700257736170144,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.39249055158559004,
+        "bins": [
+          {
+            "confidence": 2.69720458984375,
+            "mae": 0.010815607383847237,
+            "count": 1200
+          },
+          {
+            "confidence": 2.754835605621338,
+            "mae": 0.005010529421269894,
+            "count": 1200
+          },
+          {
+            "confidence": 2.817974805831909,
+            "mae": 0.0037200443912297487,
+            "count": 1200
+          },
+          {
+            "confidence": 2.893705129623413,
+            "mae": 0.001750207389704883,
+            "count": 1200
+          },
+          {
+            "confidence": 2.915670156478882,
+            "mae": 0.0015813626814633608,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9367289543151855,
+            "mae": 0.001928489189594984,
+            "count": 1200
+          },
+          {
+            "confidence": 2.946824550628662,
+            "mae": 0.0016229531029239297,
+            "count": 1200
+          },
+          {
+            "confidence": 2.956388235092163,
+            "mae": 0.001466333051212132,
+            "count": 1200
+          },
+          {
+            "confidence": 2.969399929046631,
+            "mae": 0.0017970871413126588,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9898838996887207,
+            "mae": 0.0017928741872310638,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.0017928743036463857,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.00015816181257832795
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.0017949807224795222,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.00031759781995788217
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.3,
+            "mae": 0.0016854313435032964,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.00048331476864404976
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.0016698120161890984,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0006550637190230191
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.0017215474508702755,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0008383883396163583
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.001698183361440897,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0010416802251711488
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.0017056153155863285,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0012690102448686957
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.0019574188627302647,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0015471962979063392
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.0022966533433645964,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0019783531315624714
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.0031485487706959248,
+            "random_expected_mae": 0.0031485487706959248,
+            "oracle_mae": 0.0031485487706959248
+          }
+        ]
+      }
+    },
+    {
+      "frame": 3,
+      "timestamp_s": 0.15,
+      "held_out_time": true,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.004687362350523472,
+      "mesh_distance_p95_m": 0.016955655068159103,
+      "visible_reference_completeness_mean_m": 0.007448214908422881,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.40320746475332797,
+        "bins": [
+          {
+            "confidence": 2.5794475078582764,
+            "mae": 0.018061917275190353,
+            "count": 1200
+          },
+          {
+            "confidence": 2.7369227409362793,
+            "mae": 0.006226749625056982,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8121633529663086,
+            "mae": 0.004235292784869671,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8459525108337402,
+            "mae": 0.002879720414057374,
+            "count": 1200
+          },
+          {
+            "confidence": 2.86920166015625,
+            "mae": 0.002548718126490712,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8916714191436768,
+            "mae": 0.002553132362663746,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9215288162231445,
+            "mae": 0.002910878276452422,
+            "count": 1200
+          },
+          {
+            "confidence": 2.930098533630371,
+            "mae": 0.0029796918388456106,
+            "count": 1200
+          },
+          {
+            "confidence": 2.937760353088379,
+            "mae": 0.002377992495894432,
+            "count": 1200
+          },
+          {
+            "confidence": 2.959869384765625,
+            "mae": 0.002099529840052128,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.002099529840052128,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.00022282148711383343
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.00223876116797328,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.0004394671705085784
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.30025,
+            "mae": 0.002488373778760433,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.0006646948168054223
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.00259202322922647,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.0009017557022161782
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.002584245288744569,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.0011585220927372575
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.00257832370698452,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.0014408528804779053
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.002621380379423499,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.0017672181129455566
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.0028231197502464056,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.002182598225772381
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.0032013007439672947,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.002830623649060726
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.004687362350523472,
+            "random_expected_mae": 0.004687362350523472,
+            "oracle_mae": 0.004687362350523472
+          }
+        ]
+      }
+    },
+    {
+      "frame": 4,
+      "timestamp_s": 0.2,
+      "held_out_time": false,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.003620702540501952,
+      "mesh_distance_p95_m": 0.014159870333969593,
+      "visible_reference_completeness_mean_m": 0.007151159984694136,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.44072586988645207,
+        "bins": [
+          {
+            "confidence": 2.5794475078582764,
+            "mae": 0.01366360392421484,
+            "count": 1200
+          },
+          {
+            "confidence": 2.7369227409362793,
+            "mae": 0.005171430762857199,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8121633529663086,
+            "mae": 0.0035365994554013014,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8459525108337402,
+            "mae": 0.0022101474460214376,
+            "count": 1200
+          },
+          {
+            "confidence": 2.86920166015625,
+            "mae": 0.0020031125750392675,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8916714191436768,
+            "mae": 0.001681025023572147,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9215288162231445,
+            "mae": 0.0023102248087525368,
+            "count": 1200
+          },
+          {
+            "confidence": 2.930098533630371,
+            "mae": 0.002438323339447379,
+            "count": 1200
+          },
+          {
+            "confidence": 2.937760353088379,
+            "mae": 0.0016763235908001661,
+            "count": 1200
+          },
+          {
+            "confidence": 2.959869384765625,
+            "mae": 0.0015162311028689146,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.0015162311028689146,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.00017978684627451003
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.0015962773468345404,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.00036452600033953786
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.30025,
+            "mae": 0.0018820135155692697,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.0005552605143748224
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.0019852756522595882,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.0007532468880526721
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.001924425596371293,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.0009625181555747986
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.0019375401316210628,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.0011879925150424242
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.0019764841999858618,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.0014425951521843672
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.00217149849049747,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.001753233722411096
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.0025048244278877974,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.00227303896099329
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.003620702540501952,
+            "random_expected_mae": 0.003620702540501952,
+            "oracle_mae": 0.003620702540501952
+          }
+        ]
+      }
+    },
+    {
+      "frame": 5,
+      "timestamp_s": 0.25,
+      "held_out_time": true,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.004184002988040447,
+      "mesh_distance_p95_m": 0.01547812856733799,
+      "visible_reference_completeness_mean_m": 0.00759016337133383,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.4167269010176498,
+        "bins": [
+          {
+            "confidence": 2.5794475078582764,
+            "mae": 0.012519906274974346,
+            "count": 1200
+          },
+          {
+            "confidence": 2.7369227409362793,
+            "mae": 0.007006470579653978,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8121633529663086,
+            "mae": 0.004452573601156473,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8459525108337402,
+            "mae": 0.0028850466478616,
+            "count": 1200
+          },
+          {
+            "confidence": 2.86920166015625,
+            "mae": 0.002544916933402419,
+            "count": 1200
+          },
+          {
+            "confidence": 2.8916714191436768,
+            "mae": 0.0024407741148024797,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9215288162231445,
+            "mae": 0.0028941440396010876,
+            "count": 1200
+          },
+          {
+            "confidence": 2.930098533630371,
+            "mae": 0.0028145189862698317,
+            "count": 1200
+          },
+          {
+            "confidence": 2.937760353088379,
+            "mae": 0.0022663173731416464,
+            "count": 1200
+          },
+          {
+            "confidence": 2.959869384765625,
+            "mae": 0.002015360863879323,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.0020153610967099667,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.00022753035591449589
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.0021408393513411283,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.00045658668386749923
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.30025,
+            "mae": 0.002370679285377264,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.0006822985596954823
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.0024975852575153112,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.000912506366148591
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.0024862231221050024,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.0011532061034813523
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.002496005268767476,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.0014188004424795508
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.0025515828747302294,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.0017281841719523072
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.0027892068028450012,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.0021170885302126408
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.003257791744545102,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.002751587890088558
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.004184002988040447,
+            "random_expected_mae": 0.004184002988040447,
+            "oracle_mae": 0.00418400252237916
+          }
+        ]
+      }
+    },
+    {
+      "frame": 6,
+      "timestamp_s": 0.3,
+      "held_out_time": false,
+      "active_gaussians": 12000,
+      "unique_centers": 12000,
+      "mesh_distance_mean_m": 0.003444023197516799,
+      "mesh_distance_p95_m": 0.014641455374658108,
+      "visible_reference_completeness_mean_m": 0.0072383316646586066,
+      "confidence_reliability": {
+        "count": 12000,
+        "constant_confidence": false,
+        "spearman_confidence_negative_error": 0.4731126966754359,
+        "bins": [
+          {
+            "confidence": 2.6215293407440186,
+            "mae": 0.010514020919799805,
+            "count": 1200
+          },
+          {
+            "confidence": 2.719618797302246,
+            "mae": 0.007526850793510675,
+            "count": 1200
+          },
+          {
+            "confidence": 2.847463846206665,
+            "mae": 0.003727173898369074,
+            "count": 1200
+          },
+          {
+            "confidence": 2.899960994720459,
+            "mae": 0.001993347890675068,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9186291694641113,
+            "mae": 0.002003055764362216,
+            "count": 1200
+          },
+          {
+            "confidence": 2.937284231185913,
+            "mae": 0.0023118797689676285,
+            "count": 1200
+          },
+          {
+            "confidence": 2.949080467224121,
+            "mae": 0.0017367053078487515,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9601335525512695,
+            "mae": 0.0016822055913507938,
+            "count": 1200
+          },
+          {
+            "confidence": 2.9749720096588135,
+            "mae": 0.0015449979109689593,
+            "count": 1200
+          },
+          {
+            "confidence": 2.998809814453125,
+            "mae": 0.001399993896484375,
+            "count": 1200
+          }
+        ],
+        "risk_coverage": [
+          {
+            "requested_coverage": 0.1,
+            "actual_coverage": 0.1,
+            "mae": 0.001399993896484375,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0001876457972684875
+          },
+          {
+            "requested_coverage": 0.2,
+            "actual_coverage": 0.2,
+            "mae": 0.001472495961934328,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.00037562294164672494
+          },
+          {
+            "requested_coverage": 0.30000000000000004,
+            "actual_coverage": 0.3,
+            "mae": 0.0015423991717398167,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0005595352849923074
+          },
+          {
+            "requested_coverage": 0.4,
+            "actual_coverage": 0.4,
+            "mae": 0.00159097567666322,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0007404012721963227
+          },
+          {
+            "requested_coverage": 0.5,
+            "actual_coverage": 0.5,
+            "mae": 0.0017351564019918442,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0009244338725693524
+          },
+          {
+            "requested_coverage": 0.6,
+            "actual_coverage": 0.6,
+            "mae": 0.0017798063345253468,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0011229747906327248
+          },
+          {
+            "requested_coverage": 0.7000000000000001,
+            "actual_coverage": 0.7,
+            "mae": 0.001810312271118164,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0013414067216217518
+          },
+          {
+            "requested_coverage": 0.8,
+            "actual_coverage": 0.8,
+            "mae": 0.002049919916316867,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0016195835778489709
+          },
+          {
+            "requested_coverage": 0.9,
+            "actual_coverage": 0.9,
+            "mae": 0.0026584677398204803,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.0021677480544894934
+          },
+          {
+            "requested_coverage": 1.0,
+            "actual_coverage": 1.0,
+            "mae": 0.003444023197516799,
+            "random_expected_mae": 0.003444023197516799,
+            "oracle_mae": 0.003444023197516799
+          }
+        ]
+      }
+    }
+  ],
+  "image_metrics": [
+    {
+      "frame": 0,
+      "camera": 0,
+      "group": "seen_time_fit_view",
+      "psnr": 18.906072363057056,
+      "ssim": 0.1475452184677124,
+      "mae": 0.09231938421726227,
+      "alpha_ge_0_5_fraction": 0.9998449900793651,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 0,
+      "camera": 1,
+      "group": "seen_time_fit_view",
+      "psnr": 18.977718515474926,
+      "ssim": 0.14908218383789062,
+      "mae": 0.09162464737892151,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 0,
+      "camera": 2,
+      "group": "seen_time_reserved_view",
+      "psnr": 18.960288603391678,
+      "ssim": 0.14841097593307495,
+      "mae": 0.09182017296552658,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "reserved_measurement"
+    },
+    {
+      "frame": 0,
+      "camera": 3,
+      "group": "seen_time_fit_view",
+      "psnr": 19.0270312529247,
+      "ssim": 0.16712331771850586,
+      "mae": 0.09003064781427383,
+      "alpha_ge_0_5_fraction": 0.9895755828373016,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 0,
+      "camera": 4,
+      "group": "seen_time_fit_view",
+      "psnr": 19.22559797271073,
+      "ssim": 0.20460599660873413,
+      "mae": 0.0860949382185936,
+      "alpha_ge_0_5_fraction": 0.9688275049603174,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 0,
+      "camera": 5,
+      "group": "seen_time_novel_view",
+      "psnr": 17.722088184508557,
+      "ssim": 0.13629740476608276,
+      "mae": 0.09996983408927917,
+      "alpha_ge_0_5_fraction": 0.9770042782738095,
+      "rgb_clipped_fraction": 0.0005735366721637547,
+      "role": "evaluation"
+    },
+    {
+      "frame": 1,
+      "camera": 0,
+      "group": "unseen_time_fit_view",
+      "psnr": 18.741826966955067,
+      "ssim": 0.14042901992797852,
+      "mae": 0.09380364418029785,
+      "alpha_ge_0_5_fraction": 0.9969695560515873,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 1,
+      "camera": 1,
+      "group": "unseen_time_fit_view",
+      "psnr": 18.874386320161538,
+      "ssim": 0.1431308388710022,
+      "mae": 0.0927439033985138,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 1,
+      "camera": 2,
+      "group": "unseen_time_reserved_view",
+      "psnr": 18.906088397824128,
+      "ssim": 0.1436622142791748,
+      "mae": 0.0923663079738617,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 1,
+      "camera": 3,
+      "group": "unseen_time_fit_view",
+      "psnr": 18.917175981081908,
+      "ssim": 0.15372157096862793,
+      "mae": 0.09145074337720871,
+      "alpha_ge_0_5_fraction": 0.9940321180555556,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 1,
+      "camera": 4,
+      "group": "unseen_time_fit_view",
+      "psnr": 19.12643479188654,
+      "ssim": 0.19154298305511475,
+      "mae": 0.08740884065628052,
+      "alpha_ge_0_5_fraction": 0.9748806423611112,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 1,
+      "camera": 5,
+      "group": "unseen_time_novel_view",
+      "psnr": 17.58764343177811,
+      "ssim": 0.1333664059638977,
+      "mae": 0.10127702355384827,
+      "alpha_ge_0_5_fraction": 0.9753534226190477,
+      "rgb_clipped_fraction": 0.0005709531833417714,
+      "role": "evaluation"
+    },
+    {
+      "frame": 2,
+      "camera": 0,
+      "group": "seen_time_fit_view",
+      "psnr": 25.367308692556925,
+      "ssim": 0.37636566162109375,
+      "mae": 0.042984738945961,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 2,
+      "camera": 1,
+      "group": "seen_time_fit_view",
+      "psnr": 25.4615884068237,
+      "ssim": 0.3791412115097046,
+      "mae": 0.042519696056842804,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 2,
+      "camera": 2,
+      "group": "seen_time_reserved_view",
+      "psnr": 25.471062073119782,
+      "ssim": 0.3799557685852051,
+      "mae": 0.04243895038962364,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "reserved_measurement"
+    },
+    {
+      "frame": 2,
+      "camera": 3,
+      "group": "seen_time_fit_view",
+      "psnr": 25.390277248590678,
+      "ssim": 0.38632839918136597,
+      "mae": 0.042492594569921494,
+      "alpha_ge_0_5_fraction": 0.9917922247023809,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 2,
+      "camera": 4,
+      "group": "seen_time_fit_view",
+      "psnr": 25.648691463980157,
+      "ssim": 0.41580724716186523,
+      "mae": 0.040373872965574265,
+      "alpha_ge_0_5_fraction": 0.9583488343253969,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 2,
+      "camera": 5,
+      "group": "seen_time_novel_view",
+      "psnr": 22.14734495217771,
+      "ssim": 0.3590582609176636,
+      "mae": 0.05085674673318863,
+      "alpha_ge_0_5_fraction": 0.9815925719246031,
+      "rgb_clipped_fraction": 7.750495569780469e-06,
+      "role": "evaluation"
+    },
+    {
+      "frame": 3,
+      "camera": 0,
+      "group": "unseen_time_fit_view",
+      "psnr": 22.49855956757496,
+      "ssim": 0.2561028003692627,
+      "mae": 0.060051023960113525,
+      "alpha_ge_0_5_fraction": 0.9999844990079365,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 3,
+      "camera": 1,
+      "group": "unseen_time_fit_view",
+      "psnr": 22.554034164217967,
+      "ssim": 0.25821149349212646,
+      "mae": 0.059657130390405655,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 3,
+      "camera": 2,
+      "group": "unseen_time_reserved_view",
+      "psnr": 22.55113737463929,
+      "ssim": 0.25953078269958496,
+      "mae": 0.05962470546364784,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 3,
+      "camera": 3,
+      "group": "unseen_time_fit_view",
+      "psnr": 22.468294978830986,
+      "ssim": 0.26234525442123413,
+      "mae": 0.059912391006946564,
+      "alpha_ge_0_5_fraction": 0.9933035714285714,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 3,
+      "camera": 4,
+      "group": "unseen_time_fit_view",
+      "psnr": 22.67550917656664,
+      "ssim": 0.2918654680252075,
+      "mae": 0.05736493319272995,
+      "alpha_ge_0_5_fraction": 0.9529699900793651,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 3,
+      "camera": 5,
+      "group": "unseen_time_novel_view",
+      "psnr": 20.363406886296836,
+      "ssim": 0.2434900403022766,
+      "mae": 0.067835234105587,
+      "alpha_ge_0_5_fraction": 0.9790814112103174,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 4,
+      "camera": 0,
+      "group": "seen_time_fit_view",
+      "psnr": 18.907686512151855,
+      "ssim": 0.14399272203445435,
+      "mae": 0.09212473779916763,
+      "alpha_ge_0_5_fraction": 0.9990311879960317,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 4,
+      "camera": 1,
+      "group": "seen_time_fit_view",
+      "psnr": 18.944583235535166,
+      "ssim": 0.14447623491287231,
+      "mae": 0.09193786233663559,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 4,
+      "camera": 2,
+      "group": "seen_time_reserved_view",
+      "psnr": 18.942448005776683,
+      "ssim": 0.1443735957145691,
+      "mae": 0.09193816781044006,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "reserved_measurement"
+    },
+    {
+      "frame": 4,
+      "camera": 3,
+      "group": "seen_time_fit_view",
+      "psnr": 18.939335679609346,
+      "ssim": 0.14608556032180786,
+      "mae": 0.09187419712543488,
+      "alpha_ge_0_5_fraction": 0.996644035218254,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 4,
+      "camera": 4,
+      "group": "seen_time_fit_view",
+      "psnr": 19.073800194986305,
+      "ssim": 0.17415279150009155,
+      "mae": 0.08886203914880753,
+      "alpha_ge_0_5_fraction": 0.958434089781746,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 4,
+      "camera": 5,
+      "group": "seen_time_novel_view",
+      "psnr": 17.761543871579217,
+      "ssim": 0.13190239667892456,
+      "mae": 0.09973908215761185,
+      "alpha_ge_0_5_fraction": 0.9773995535714286,
+      "rgb_clipped_fraction": 2.5834985990513815e-06,
+      "role": "evaluation"
+    },
+    {
+      "frame": 5,
+      "camera": 0,
+      "group": "unseen_time_fit_view",
+      "psnr": 23.809187246235744,
+      "ssim": 0.37286102771759033,
+      "mae": 0.04627479985356331,
+      "alpha_ge_0_5_fraction": 0.9911024305555556,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 5,
+      "camera": 1,
+      "group": "unseen_time_fit_view",
+      "psnr": 25.279129324752002,
+      "ssim": 0.3803609013557434,
+      "mae": 0.04326067492365837,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 5,
+      "camera": 2,
+      "group": "unseen_time_reserved_view",
+      "psnr": 25.191727494259105,
+      "ssim": 0.37772101163864136,
+      "mae": 0.04358700290322304,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 5,
+      "camera": 3,
+      "group": "unseen_time_fit_view",
+      "psnr": 25.05953535734974,
+      "ssim": 0.37654733657836914,
+      "mae": 0.04408580809831619,
+      "alpha_ge_0_5_fraction": 0.9987676711309523,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 5,
+      "camera": 4,
+      "group": "unseen_time_fit_view",
+      "psnr": 25.16685901858859,
+      "ssim": 0.3952307105064392,
+      "mae": 0.04287667199969292,
+      "alpha_ge_0_5_fraction": 0.9639369419642857,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 5,
+      "camera": 5,
+      "group": "unseen_time_novel_view",
+      "psnr": 21.42514738781315,
+      "ssim": 0.36061596870422363,
+      "mae": 0.053027812391519547,
+      "alpha_ge_0_5_fraction": 0.9757254464285714,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    },
+    {
+      "frame": 6,
+      "camera": 0,
+      "group": "seen_time_fit_view",
+      "psnr": 25.262395631449827,
+      "ssim": 0.37589627504348755,
+      "mae": 0.04336343705654144,
+      "alpha_ge_0_5_fraction": 0.9995504712301587,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 6,
+      "camera": 1,
+      "group": "seen_time_fit_view",
+      "psnr": 25.216589283440186,
+      "ssim": 0.3749617338180542,
+      "mae": 0.043486688286066055,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 6,
+      "camera": 2,
+      "group": "seen_time_reserved_view",
+      "psnr": 25.127354803263067,
+      "ssim": 0.37319833040237427,
+      "mae": 0.043829455971717834,
+      "alpha_ge_0_5_fraction": 1.0,
+      "rgb_clipped_fraction": 0.0,
+      "role": "reserved_measurement"
+    },
+    {
+      "frame": 6,
+      "camera": 3,
+      "group": "seen_time_fit_view",
+      "psnr": 25.017050147422268,
+      "ssim": 0.37187182903289795,
+      "mae": 0.04424994811415672,
+      "alpha_ge_0_5_fraction": 0.9993179563492064,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 6,
+      "camera": 4,
+      "group": "seen_time_fit_view",
+      "psnr": 25.04038944722963,
+      "ssim": 0.38567274808883667,
+      "mae": 0.04349391907453537,
+      "alpha_ge_0_5_fraction": 0.9655257936507936,
+      "rgb_clipped_fraction": 0.0,
+      "role": "fit"
+    },
+    {
+      "frame": 6,
+      "camera": 5,
+      "group": "seen_time_novel_view",
+      "psnr": 22.018903266936377,
+      "ssim": 0.35514020919799805,
+      "mae": 0.051947809755802155,
+      "alpha_ge_0_5_fraction": 0.9811817956349206,
+      "rgb_clipped_fraction": 0.0,
+      "role": "evaluation"
+    }
+  ],
+  "image_groups": {
+    "seen_time_fit_view": {
+      "images": 16,
+      "psnr": 22.150382252996465,
+      "ssim": 0.27144432067871094,
+      "mae": 0.0667395843192935,
+      "alpha_ge_0_5_fraction": 0.9891807919456845
+    },
+    "seen_time_novel_view": {
+      "images": 4,
+      "psnr": 19.912470068800467,
+      "ssim": 0.24559956789016724,
+      "mae": 0.07562836818397045,
+      "alpha_ge_0_5_fraction": 0.9792945498511904
+    },
+    "seen_time_reserved_view": {
+      "images": 4,
+      "psnr": 22.125288371387803,
+      "ssim": 0.26148466765880585,
+      "mae": 0.06750668678432703,
+      "alpha_ge_0_5_fraction": 1.0
+    },
+    "unseen_time_fit_view": {
+      "images": 12,
+      "psnr": 22.097577741183475,
+      "ssim": 0.26852911710739136,
+      "mae": 0.06490754708647728,
+      "alpha_ge_0_5_fraction": 0.9888289517195767
+    },
+    "unseen_time_novel_view": {
+      "images": 3,
+      "psnr": 19.7920659019627,
+      "ssim": 0.24582413832346597,
+      "mae": 0.07404669001698494,
+      "alpha_ge_0_5_fraction": 0.9767200934193122
+    },
+    "unseen_time_reserved_view": {
+      "images": 3,
+      "psnr": 22.21631775557417,
+      "ssim": 0.2603046695391337,
+      "mae": 0.06519267211357753,
+      "alpha_ge_0_5_fraction": 1.0
+    }
+  },
+  "geometry_groups": {
+    "seen_time": {
+      "active_gaussians": 12000.0,
+      "mesh_distance_mean_m": 0.0034286819864064455,
+      "mesh_distance_p95_m": 0.013340994715690613,
+      "visible_reference_completeness_mean_m": 0.006941640042765722
+    },
+    "unseen_time": {
+      "active_gaussians": 12000.0,
+      "mesh_distance_mean_m": 0.004226861987262964,
+      "mesh_distance_p95_m": 0.015134051442146301,
+      "visible_reference_completeness_mean_m": 0.0073820423183502916
+    }
+  },
+  "image_roles": {
+    "fit": 16,
+    "reserved_measurement": 4,
+    "evaluation": 22
+  },
+  "evaluation_images": {
+    "images": 22,
+    "psnr": 21.40208927918246,
+    "ssim": 0.2601424591107802,
+    "mae": 0.0681419147347862,
+    "alpha_ge_0_5_fraction": 0.9869675409226191
+  }
+}

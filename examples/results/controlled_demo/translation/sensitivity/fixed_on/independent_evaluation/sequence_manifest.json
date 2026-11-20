@@ -1,0 +1,47 @@
+{
+  "units": "meters",
+  "frames": [
+    {
+      "frame_idx": 0,
+      "timestamp": 0.0,
+      "file": "sequence_frame_000000.ply",
+      "held_out_time": false
+    },
+    {
+      "frame_idx": 1,
+      "timestamp": 0.05,
+      "file": "sequence_frame_000001.ply",
+      "held_out_time": true
+    },
+    {
+      "frame_idx": 2,
+      "timestamp": 0.1,
+      "file": "sequence_frame_000002.ply",
+      "held_out_time": false
+    },
+    {
+      "frame_idx": 3,
+      "timestamp": 0.15,
+      "file": "sequence_frame_000003.ply",
+      "held_out_time": true
+    },
+    {
+      "frame_idx": 4,
+      "timestamp": 0.2,
+      "file": "sequence_frame_000004.ply",
+      "held_out_time": false
+    },
+    {
+      "frame_idx": 5,
+      "timestamp": 0.25,
+      "file": "sequence_frame_000005.ply",
+      "held_out_time": true
+    },
+    {
+      "frame_idx": 6,
+      "timestamp": 0.3,
+      "file": "sequence_frame_000006.ply",
+      "held_out_time": false
+    }
+  ]
+}
